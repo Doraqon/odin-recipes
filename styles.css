@@ -1,0 +1,10 @@
+.titleheader {
+    color: blue;
+}
+
+#recipe {
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: pink;
+    text-align: center;
+}
